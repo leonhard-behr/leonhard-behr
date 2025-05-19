@@ -1,10 +1,40 @@
+<!-- GitHub Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-# 👋 Hi, I’m Leonhard Behr
-I'm a machine learning engineering student at Ansbach University of Applied Sciences.
+<!-- Compact Grid Layout -->
+<table>
+  <!-- Row 1: Badges + Bio -->
+  <tr>
+    <td valign="top" width="30%">
+      <h3>🎯 My Badges</h3>
+      <img src="https://img.shields.io/badge/python-blue.svg" alt="Python Badge"/>
+      <img src="https://img.shields.io/badge/c/c++-teal.svg" alt="C/C++ Badge"/>
+      <img src="https://img.shields.io/badge/html-orange.svg" alt="HTML Badge"/>
+      <img src="https://img.shields.io/badge/css-yellow.svg" alt="CSS Badge"/>
+      <img src="https://img.shields.io/badge/tensorflow-orange.svg" alt="TF Badge"/>
+      <img src="https://img.shields.io/badge/pytorch-red.svg" alt="TF Badge"/>
+      <img src="https://img.shields.io/badge/nodeJS-purple.svg" alt="NodeJS Badge"/>
+    </td>
+    <td valign="top" width="70%">
+      <h1>👋 Hi, I’m Leonhard Behr</h1>
+      <p>
+        Machine Learning Engineering student at <strong>Ansbach University of Applied Sciences</strong>.<br>
+        Interested in Text-to-Speech, Vision Models, Transformers, Data Analysis, and ML on Embedded Systems.
+      </p>
+    </td>
+  </tr>
 
-[![Leonhard Behr GitHub stats](https://github-readme-stats.vercel.app/api?username=leonhard-behr)](https://github.com/anuraghazra/github-readme-stats&hide=stars,commits,issues&hide_title=True)
+  <!-- Row 2: Languages + Stats + Streak -->
+  <tr>
+    <td valign="top" width="33%">
+      <img src="https://github-readme-stats-atcj.vercel.app/api/top-langs/?username=leonhard-behr&layout=compact&hide=ShaderLab&exclude_repo=game_jam" alt="Top Languages" />
+    </td>
+    <td valign="top" width="33%">
+      <img src="https://github-readme-stats-atcj.vercel.app/api?username=leonhard-behr&show_icons=true&hide_title=true&hide_rank=false&include_all_commits=true&count_private=true&theme=default&card_width=300&hide=prs,stars&rank_icon=github" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
