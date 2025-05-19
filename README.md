@@ -10,7 +10,7 @@
   <!-- Row 1: Badges + Bio -->
   <tr>
     <td valign="top" width="30%">
-      <h3>🎯 My Badges</h3>
+      <h3>Skills:</h3>
       <img src="https://img.shields.io/badge/python-blue.svg" alt="Python Badge"/>
       <img src="https://img.shields.io/badge/c/c++-teal.svg" alt="C/C++ Badge"/>
       <img src="https://img.shields.io/badge/html-orange.svg" alt="HTML Badge"/>
@@ -20,7 +20,7 @@
       <img src="https://img.shields.io/badge/nodeJS-purple.svg" alt="NodeJS Badge"/>
     </td>
     <td valign="top" width="70%">
-      <h1>👋 Hi, I’m Leonhard Behr</h1>
+      <h1>Hi, I’m Leonhard Behr c:</h1>
       <p>
         Machine Learning Engineering student at <strong>Ansbach University of Applied Sciences</strong>.<br>
         Interested in Text-to-Speech, Vision Models, Transformers, Data Analysis, and ML on Embedded Systems.
