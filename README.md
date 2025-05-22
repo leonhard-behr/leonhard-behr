@@ -31,10 +31,10 @@
   <!-- Row 2: Languages + Stats + Streak -->
   <tr>
     <td valign="top" width="33%">
-      <img src="https://github-readme-stats-atcj.vercel.app/api/top-langs/?username=leonhard-behr&layout=compact&hide=ShaderLab&exclude_repo=game_jam" alt="Top Languages" />
+      <img src="https://github-readme-stats-teal-beta-22.vercel.app/api/top-langs/?username=leonhard-behr&layout=compact&hide=ShaderLab&exclude_repo=game_jam" alt="Top Languages" />
     </td>
     <td valign="top" width="33%">
-      <img src="https://github-readme-stats-atcj.vercel.app/api?username=leonhard-behr&show_icons=true&hide_title=true&hide_rank=false&include_all_commits=true&count_private=true&theme=default&card_width=300&hide=prs,stars&rank_icon=github" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-teal-beta-22.vercel.app/api?username=leonhard-behr&show_icons=true&hide_title=true&hide_rank=false&include_all_commits=true&count_private=true&theme=default&card_width=300&hide=prs,stars&rank_icon=github" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
