@@ -11,13 +11,16 @@
   <tr>
     <td valign="top" width="30%">
       <h3>Skills:</h3>
-      <img src="https://img.shields.io/badge/python-blue.svg" alt="Python Badge"/>
+      <img src="https://img.shields.io/badge/Python-blue.svg" alt="Python Badge"/>
       <img src="https://img.shields.io/badge/c/c++-teal.svg" alt="C/C++ Badge"/>
       <img src="https://img.shields.io/badge/html-orange.svg" alt="HTML Badge"/>
       <img src="https://img.shields.io/badge/css-yellow.svg" alt="CSS Badge"/>
-      <img src="https://img.shields.io/badge/tensorflow-orange.svg" alt="TF Badge"/>
-      <img src="https://img.shields.io/badge/pytorch-red.svg" alt="TF Badge"/>
-      <img src="https://img.shields.io/badge/nodeJS-purple.svg" alt="NodeJS Badge"/>
+      <img src="https://img.shields.io/badge/Tensorflow-orange.svg" alt="TF Badge"/>
+      <img src="https://img.shields.io/badge/Pytorch-red.svg" alt="TF Badge"/>
+      <img src="https://img.shields.io/badge/NodeJS-green.svg" alt="NodeJS Badge"/>
+      <img src="https://img.shields.io/badge/React-purple.svg" alt="TF Badge"/>
+      <img src="https://img.shields.io/badge/SAP-GenAI/HANA-blue.svg" alt="TF Badge"/>
+      <img src="https://img.shields.io/badge/HPC-maroon.svg" alt="NodeJS Badge"/>
     </td>
     <td valign="top" width="70%">
       <h1>Hi, I’m Leonhard Behr c:</h1>
